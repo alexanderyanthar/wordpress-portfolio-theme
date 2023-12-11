@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "settings": {
+    "layout": {
+      "wideSize": "800px"
+    },
+    "color": {
+      "custom": false,
+      "customDuotone": false,
+      "customGradient": false,
+      "defaultGradients": false,
+      "defaultPalette": false,
+      "duotone": [],
+      "gradients": [
+        {
+          "slug": "green-to-yellow",
+          "gradient": "linear-gradient(135deg, #3ce406 0%, #d6e029 100%)",
+          "name": "Green to Yellow"
+        },
+        {
+          "slug": "red-to-blue",
+          "gradient": "linear-gradient(135deg, #e4064d 0%, #2c59ee 100%)",
+          "name": "Red to Blue"
+        }
+      ],
+      "palette": [
+        {
+          "slug": "strong-magenta",
+          "color": "#a156b4",
+          "name": "strong magenta"
+        },
+        {
+          "slug": "very-light-gray",
+          "color": "#eee",
+          "name": "very light gray"
+        }
+      ]
+    }
+  }
+}
